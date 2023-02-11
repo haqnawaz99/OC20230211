@@ -9,6 +9,5 @@ export default function Home() {
         <Image src="/haqnawaz.png" width={200} height={200} alt="Picture" />
         <Image src="/khadija.jpg" width={200} height={300} alt="Picture" />
     </>
-    
   )
 }
